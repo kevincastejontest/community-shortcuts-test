@@ -1,6 +1,6 @@
 {
   "command": "\"C:\\Program Files\\nodejs\\npm\" \"init\" \"-y\"",
-  "description": "Runs 'npm init -y' into your package directory. Requires nodejs to be installed (obviously).",
+  "description": "Runs 'npm init -y' into your package directory. Requires nodejs to be installed.",
   "deskEnv": false,
   "dirBkgEnv": true,
   "dirEnv": true,
