@@ -1,6 +1,6 @@
 {
   "command": "\"C:\\Program Files\\nodejs\\npm\" \"init\" \"-y\"",
-  "description": "Inits an NPM package",
+  "description": "Runs 'npm init -y' into your package directory",
   "deskEnv": false,
   "dirBkgEnv": true,
   "dirEnv": true,
